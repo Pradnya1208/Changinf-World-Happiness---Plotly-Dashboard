@@ -21,6 +21,16 @@
 Finland was ranked the happiest country in the world, according to the World Happiness Report from 2021. The Nordic country scored 7.89 on a scale from 0 to 10. Two other Nordic countries, Iceland and Denmark, followed with a second and third place, respectively. The World Happiness Report is a landmark survey of the state of global happiness that ranks countries by how happy their citizens perceive themselves to be. The measurement of subjective well-being relies on three main indicators: life evaluations, positive emotions, and negative emotions.
 
 
+
+## Dataset:
+[World happiness report](https://en.wikipedia.org/wiki/World_Happiness_Report)
+
+The dataset for this analysis is collected from the Wikepedia.
+For data cleaning and prepeocessing details check the [Notebook](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/dash_data.ipynb)
+
+
+
+
 [1]: https://github.com/Pradnya1208
 [2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
 [3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
