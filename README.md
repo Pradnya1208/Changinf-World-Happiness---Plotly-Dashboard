@@ -13,6 +13,6 @@
 
 </div>
 
-# <div align="center">Analysis of World Happiness Index</div>
+# <div align="center">Analysis of World Happiness Index (2020)</div>
 <div align="center"><img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/output.gif?raw=true"></div>
 
