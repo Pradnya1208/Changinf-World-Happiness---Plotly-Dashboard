@@ -65,6 +65,9 @@ Sustainable Development Solutions Network
 
 ## Tableau Dashboard:
 Snippet of tableau dashboard
+
+<br>
+
 <img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/thumbnail.png?raw=true" width="80%">
 
 Checkout the complete dashboard [here](https://twitter.com/Pradnya1208/status/1351197668798771205)
