@@ -80,6 +80,30 @@ Checkout the complete dashboard [here](https://twitter.com/Pradnya1208/status/13
 Check the complete implementation [index.py](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/index.py). <br>
 Design details can be found [here](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/tree/main/Scripts/assets)
 
+### Learnings:
+`Analysis using Tableau` <br>
+`Making a dashnoard using Plotly Dash` <br>
+`Web scraping and data preprocessing`
+
+
+
+
+
+
+## References:
+[Dash Overview](https://plotly.com/dash/)
+
+### Feedback
+
+If you have any feedback, please reach out at pradnyapatil671@gmail.com
+
+
+### 🚀 About Me
+#### Hi, I'm Pradnya! 👋
+I am an AI Enthusiast and  Data science & ML practitioner
+
+<br>
+
 
 
 
