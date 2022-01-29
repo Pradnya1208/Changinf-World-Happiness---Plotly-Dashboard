@@ -77,7 +77,7 @@ Checkout the complete dashboard [here](https://twitter.com/Pradnya1208/status/13
 <img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/output.gif?raw=true">
 <br>
 
-Check the complete implementation [index.py](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/index.py)
+Check the complete implementation [index.py](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/index.py). <br>
 Design details can be found [here](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/tree/main/Scripts/assets)
 
 
