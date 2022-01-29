@@ -28,6 +28,10 @@ Finland was ranked the happiest country in the world, according to the World Hap
 The dataset for this analysis is collected from the Wikepedia.
 For data cleaning and prepeocessing details check the [Notebook](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/dash_data.ipynb)
 
+## About the World happiness report:
+- The World Happiness Report ranks 156 countries by how happy their citizens perceive themselves to be.
+- The rankings are based on polling (Gallup World Poll) which looks at six variables: GDP per capita, social support, healthy life expectancy, freedom, generosity, and absence of corruption.
+- The 2020 Report for the first time ranked cities around the world by their subjective well-being and looked into how the social, urban and natural environments combine to affect happiness.
 
 
 
