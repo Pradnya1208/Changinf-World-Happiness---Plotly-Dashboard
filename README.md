@@ -14,7 +14,7 @@
 </div>
 
 # <div align="center">Analysis of World Happiness Index (2020)</div>
-<div align="center"><img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/output.gif?raw=true"></div>
+<div align="center"><img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/tableau.gif?raw=true"></div>
 
 
 ## Overview:
@@ -73,6 +73,12 @@ Snippet of tableau dashboard
 Checkout the complete dashboard [here](https://twitter.com/Pradnya1208/status/1351197668798771205)
 
 ## Plotly dashboard:
+
+<img src="https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/readme_files/output.gif?raw=true">
+<br>
+
+Check the complete implementation [index.py](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/blob/main/Scripts/index.py)
+Design details can be found [here](https://github.com/Pradnya1208/World-happiness-index-analysis-plotly-dashboard/tree/main/Scripts/assets)
 
 
 
